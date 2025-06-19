@@ -1,2 +1,2 @@
 # HDLBitsSolutions
-Solutions to HDLBits Problems.
+Solutions to all the [HDLBits](https://hdlbits.01xz.net/wiki/Problem_sets) Problems.
